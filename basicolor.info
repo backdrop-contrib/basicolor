@@ -1,0 +1,13 @@
+name = Basicolor
+description = A theme Based on core Basic, with color support.
+backdrop = 1.x
+type = theme
+
+settings[color] = true
+base theme = basis
+stylesheets[all][] = css/colors.css
+stylesheets[all][] = css/styles.css
+
+; Remove unwanted core CSS
+stylesheets[all][] = system.theme.css
+stylesheets[all][] = menu-dropdown.theme.css

@@ -1,0 +1,153 @@
+/**
+ * @file
+ * Colors and appearance styles.
+ *
+ * Component styles in this file are simple overrides for easy updating.
+ */
+
+body.bc-largest {
+  font-size: 1.3em;
+}
+body.bc-larger {
+  font-size: 1.15em;
+}
+body.bc-normal {
+  font-size: 1em;
+}
+body.bc-smaller {
+  font-size: 0.95em;
+}
+body.bc-smallest {
+  font-size: 0.9em;
+}
+
+body.bf-georgia {
+  font-family: Georgia, serif;
+}
+body.bf-palatino {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+body.bf-times {
+  font-family: "Times New Roman", Times, serif;
+}
+body.bf-arial {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body.bf-arial_black {
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+body.bf-comic_sans {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+body.bf-impact {
+  font-family: Impact, Charcoal, sans-serif;
+}
+body.bf-lucida_sans {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+body.bf-tahoma {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+body.bf-trebuchet {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+body.bf-verdana {
+  font-family: Verdana, Geneva, sans-serif;
+}
+body.bf-monospace {
+  font-family: Monospace Fonts;
+}
+body.bf-courier {
+  font-family: "Courier New", Courier, monospace;
+}
+body.bf-lucida_console {
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+.sn-georgia .header-site-name-link {
+  font-family: Georgia, serif;
+}
+.sn-palatino .header-site-name-link {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.sn-times .header-site-name-link {
+  font-family: "Times New Roman", Times, serif;
+}
+.sn-arial .header-site-name-link {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.sn-arial_black .header-site-name-link {
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+.sn-comic_sans .header-site-name-link {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.sn-impact .header-site-name-link {
+  font-family: Impact, Charcoal, sans-serif;
+}
+.sn-lucida_sans .header-site-name-link {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.sn-tahoma .header-site-name-link {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+.sn-trebuchet .header-site-name-link {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.sn-verdana .header-site-name-link {
+  font-family: Verdana, Geneva, sans-serif;
+}
+.sn-monospace .header-site-name-link {
+  font-family: Monospace Fonts;
+}
+.sn-courier .header-site-name-link {
+  font-family: "Courier New", Courier, monospace;
+}
+.sn-lucida_console .header-site-name-link {
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+
+
+body.hf-georgia h1, body.hf-georgia h2, body.hf-georgia h3, body.hf-georgia h4, body.hf-georgia h5, body.hf-georgia h6  {
+  font-family: Georgia, serif;
+}
+body.hf-palatino h1, body.hf-palatino h2, body.hf-palatino h3, body.hf-palatino h4, body.hf-palatino h5, body.hf-palatino h6  {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+body.hf-times h1, body.hf-times h2, body.hf-times h3, body.hf-times h4, body.hf-times h5, body.hf-times h6  {
+  font-family: "Times New Roman", Times, serif;
+}
+body.hf-arial h1, body.hf-arial h2, body.hf-arial h3, body.hf-arial h4, body.hf-arial h5, body.hf-arial h6  {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body.hf-arial-black h1, body.hf-arial-black h2, body.hf-arial-black h3, body.hf-arial-black h4, body.hf-arial-black h5, body.hf-arial-black h6  {
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+body.hf-comic-sans h1, body.hf-comic-sans h2, body.hf-comic-sans h3, body.hf-comic-sans h4, body.hf-comic-sans h5, body.hf-comic-sans h6  {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+body.hf-impact h1, body.hf-impact h2, body.hf-impact h3, body.hf-impact h4, body.hf-impact h5, body.hf-impact h6  {
+  font-family: Impact, Charcoal, sans-serif;
+}
+body.hf-lucida-sans h1, body.hf-lucida-sans h2, body.hf-lucida-sans h3, body.hf-lucida-sans h4, body.hf-lucida-sans h5, body.hf-lucida-sans h6  {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+body.hf-tahoma h1, body.hf-tahoma h2, body.hf-tahoma h3, body.hf-tahoma h4, body.hf-tahoma h5, body.hf-tahoma h6  {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+body.hf-trebuchet h1, body.hf-trebuchet h2, body.hf-trebuchet h3, body.hf-trebuchet h4, body.hf-trebuchet h5, body.hf-trebuchet h6  {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+body.hf-verdana h1, body.hf-verdana h2, body.hf-verdana h3, body.hf-verdana h4, body.hf-verdana h5, body.hf-verdana h6  {
+  font-family: Verdana, Geneva, sans-serif;
+}
+body.hf-monospace h1, body.hf-monospace h2, body.hf-monospace h3, body.hf-monospace h4, body.hf-monospace h5, body.hf-monospace h6  {
+  font-family: Monospace Fonts;
+}
+body.hf-courier h1, body.hf-courier h2, body.hf-courier h3, body.hf-courier h4, body.hf-courier h5, body.hf-courier h6  {
+  font-family: "Courier New", Courier, monospace;
+}
+body.hf-lucida-console h1, body.hf-lucida-console h2, body.hf-lucida-console h3, body.hf-lucida-console h4, body.hf-lucida-console h5, body.hf-lucida-console h6  {
+  font-family: "Lucida Console", Monaco, monospace;
+}

@@ -1,0 +1,97 @@
+
+/* ---------- Color Module Styles ----------- */
+
+
+a {
+  color: #0074bd;
+}
+.l-header {
+  background: #20252e;
+}
+.header-site-name-link {
+  background: #0075be;
+}
+.l-header a.header-site-name-link {
+  color: #feffff;
+}
+.l-header a:hover {
+  color: #edf8ff;
+}
+.l-header a:active {
+  background: #114a75;
+}
+.l-header a {
+  color: #0074bc;
+}
+.menu-dropdown a:hover {
+  background: #114a75;
+}
+.js .menu-dropdown li.has-children > a:hover {
+  background: #114a75;
+}
+@media (min-width: 48em) {
+  .js .menu-dropdown > li.has-children > a:hover, .js .menu-dropdown > li.has-children > a:focus {
+    background-color: #114a75;
+  }
+  .menu-dropdown ul a:hover, .menu-dropdown ul a:focus, .menu-dropdown ul a:active, .menu-dropdown ul a.highlighted {
+    background: #114a75;
+  }
+}
+.menu-dropdown a {
+  color: #efffff;
+  background: #20252f;
+  border-bottom-color: #0074be;
+}
+nav.tabs:before {
+  /* Background behind primary tabs */
+  background-color: #586172;
+}
+ul.primary {
+  font-size: 0.9375em;
+}
+ul.primary li a,
+ul.primary li a:visited,
+ul.primary li a:hover,
+ul.primary li.active a,
+.expand-dropdown-tabs-control,
+.responsive-tabs-mobile .expand-dropdown-tabs-control:before,
+.responsive-tabs-mobile .expand-dropdown-tabs-label {
+  border-color: #586172; /* Should be color of bg behind tabs */
+  color: #757575;
+  background-color: #dee2ea;
+}
+ul.primary li.active a,
+ul.primary li.active a.active,
+ul.primary li.active a:active,
+ul.primary li.active a:visited,
+.responsive-tabs-mobile .expand-dropdown-tabs-label {
+  color: #000100;
+  background-color: #fefeff;
+}
+h1.page-title {
+  color: #586171;
+}
+.breadcrumb {
+  background: #dee2eb;
+}
+.breadcrumb a {
+  color: #000000;
+}
+.marker {
+  background: #abdeff;
+}
+.button, input.form-submit, input.button-primary, button.button-primary, .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+  color: #ffffff;
+  background: #0074bd;
+}
+input.button-secondary, button.button-secondary {
+  color: #828188;
+  background-color: white;
+}
+.l-footer {
+  background-color: #fffeff;
+  color: #000001;
+}
+.l-footer a {
+  color: #0074bb;
+}
