@@ -41,7 +41,7 @@ a {
 .menu-dropdown a {
   color: #efffff;
   background: #20252f;
-  border-bottom-color: #0074be;
+  border-bottom-color: #20252e;
 }
 nav.tabs:before {
   /* Background behind primary tabs */
@@ -79,12 +79,10 @@ h1.page-title {
   background: #abdeff;
 }
 .button, input.form-submit, input.button-primary, button.button-primary, .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
-  color: #ffffff;
   background: #0074bd;
 }
 input.button-secondary, button.button-secondary {
-  color: #828188;
-  background-color: white;
+  color: #586171;
 }
 .l-footer {
   background-color: #fffeff;
