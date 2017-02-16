@@ -91,3 +91,8 @@ input.button-secondary, button.button-secondary {
 .l-footer a {
   color: #0074bb;
 }
+
+.block-hero-no-image {
+  background-color: #20252e;
+}
+
