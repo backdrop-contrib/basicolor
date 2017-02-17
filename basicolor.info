@@ -4,6 +4,8 @@ backdrop = 1.x
 type = theme
 
 settings[color] = true
+settings[font_size] = bc-normal
+
 base theme = basis
 stylesheets[all][] = css/colors.css
 stylesheets[all][] = css/styles.css
