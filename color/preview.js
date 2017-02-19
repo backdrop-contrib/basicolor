@@ -50,6 +50,10 @@
       $('#preview #preview-footer-wrapper', form).css('background-color', $('#palette input[name="palette[footer]"]', form).val());
       $('#preview #preview-footer-wrapper', form).css('color', $('#palette input[name="palette[footercolor]"]', form).val());
       $('#preview #preview-footer-wrapper a', form).css('color', $('#palette input[name="palette[footerlinks]"]', form).val());
+
+      // Body background and font color.
+      $('#preview', form).css('background-color', $('#palette input[name="palette[pagebg]"]', form).val());
+      $('#preview', form).css('color', $('#palette input[name="palette[textcolor]"]', form).val());
     }
   };
 })(jQuery);

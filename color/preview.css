@@ -23,7 +23,7 @@
   overflow: hidden;
   word-wrap: break-word;
   margin-bottom: 10px;
-  border: 1px solid #eee;
+  border: 1px solid #555;
 }
 #preview-marker {
   background: #abdeff;
@@ -100,9 +100,6 @@
 #preview .preview-block-menu .preview-content,
 #preview .preview-block-menu .preview-content ul {
   margin-top: 0;
-}
-#preview-main {
-  border-top: 1px solid #000;
 }
 #preview-page-title {
   color: #586171;
