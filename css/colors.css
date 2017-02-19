@@ -5,6 +5,10 @@
 a {
   color: #0074bd;
 }
+body {
+  background-color: #fffffe;
+  color: #010000;
+}
 .l-header {
   background: #20252e;
 }
